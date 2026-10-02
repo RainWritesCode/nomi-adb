@@ -1,0 +1,17 @@
+nomi-adb
+Copyright 2026 [OWNER NAME]
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product includes software developed as part of
+The Android Open Source Project (https://source.android.com).
+Copyright (C) The Android Open Source Project.
+Licensed under the Apache License, Version 2.0.
+
+The adb protocol, its TLS upgrade, the Wireless debugging pairing
+protocol and the adb RSA public key format follow the adb sources in
+the Android Open Source Project (packages/modules/adb).
+
+The SPAKE2 points M and N and the key transcript follow BoringSSL's
+SPAKE2 over Curve25519 (crypto/curve25519/spake25519.c),
+Copyright The BoringSSL Authors, Copyright (C) Google Inc.

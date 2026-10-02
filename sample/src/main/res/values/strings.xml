@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">nomi-adb sample</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="status_lines">Developer options: %1$s\nWireless debugging: %2$s\nWi-Fi: %3$s\nPaired: %4$s\nCan switch Wireless debugging: %5$s\nHelper: %6$s</string>
+    <string name="action_pair">Pair</string>
+    <string name="action_connect">Connect</string>
+    <string name="action_run">Run</string>
+    <string name="command_hint">Shell command</string>
+    <string name="command_default" translatable="false">id</string>
+    <string name="action_grant">Grant secure settings</string>
+    <string name="action_wireless">Toggle Wireless debugging</string>
+    <string name="action_helper_start">Start helper</string>
+    <string name="action_helper_ping">Ping helper</string>
+    <string name="action_helper_stop">Stop helper</string>
+    <string name="working">Working…</string>
+    <string name="failed">Failed: %1$s</string>
+    <string name="unreachable">Could not reach Wireless debugging. Check that it is on, that the phone is on Wi-Fi and that this app is paired.</string>
+    <string name="connected">Connected to %1$s:%2$d\n%3$s</string>
+    <string name="granted">WRITE_SECURE_SETTINGS is granted</string>
+    <string name="not_granted">WRITE_SECURE_SETTINGS is not granted</string>
+    <string name="wireless_on">Wireless debugging switched on</string>
+    <string name="wireless_off">Wireless debugging switched off</string>
+    <string name="helper_running">Helper answered: %1$s</string>
+    <string name="helper_failed">The helper did not start</string>
+    <string name="helper_down">The helper is not running</string>
+    <string name="helper_stopped">Helper stopped</string>
+    <string name="notifications_needed">Pairing needs notifications, so you can type the code while the pairing window stays open.</string>
+    <string name="no_settings">Could not open Developer options. Turn them on first.</string>
+    <string name="channel_pairing">Pairing</string>
+    <string name="pair_prompt_title">Type the pairing code here</string>
+    <string name="pair_prompt_body">In Wireless debugging, tap Pair device with pairing code. Keep that window open, then tap Enter code below.</string>
+    <string name="pair_enter">Enter code</string>
+    <string name="pair_code_hint">Six-digit code</string>
+    <string name="pair_six_digits">Type the six digits</string>
+    <string name="pair_working">Pairing…</string>
+    <string name="pair_done">Paired with %1$s</string>
+    <string name="pair_no_window_title">No pairing window found</string>
+    <string name="pair_no_window">Tap Pair device with pairing code again and keep it open while you type.</string>
+    <string name="pair_wrong_code_title">That code did not match</string>
+    <string name="pair_wrong_code">Tap Pair device with pairing code again for a fresh code.</string>
+    <string name="pair_failed_title">Pairing failed</string>
+</resources>

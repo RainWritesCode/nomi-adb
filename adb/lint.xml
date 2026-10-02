@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="TrustAllX509TrustManager">
+        <ignore path="src/main/java/gg/nomi/adb/AdbKey.java" />
+    </issue>
+    <issue id="CustomX509TrustManager">
+        <ignore path="src/main/java/gg/nomi/adb/AdbKey.java" />
+    </issue>
+</lint>
